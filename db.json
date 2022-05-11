@@ -1,0 +1,81 @@
+{
+  "Ofertas": [
+    {
+      "id": 1,
+      "nome": "Banana",
+      "preco": 200,
+      "imgUrl": "https://www.infoescola.com/wp-content/uploads/2010/04/banana_600797891.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Vinho",
+      "preco": 1000,
+      "imgUrl": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_434/v1/products/0182331-standing-front.png"
+    },
+    {
+      "id": 3,
+      "nome": "Mel",
+      "preco": 850,
+      "imgUrl": "https://cdn.pixabay.com/photo/2011/03/24/12/07/honey-5866_960_720.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Grãos",
+      "preco": 150,
+      "imgUrl": "https://armazemsaovito.fbitsstatic.net/img/p/arroz-12-graos-tradicao-500g-161410/359077.jpg?w=344&h=344&v=no-change&qs=ignore"
+    }
+  ],
+  "maisvendidos": [
+    {
+      "id": 1,
+      "nome": "Banana",
+      "preco": 200
+    },
+    {
+      "id": 2,
+      "nome": "Vinho",
+      "preco": 1000
+    },
+    {
+      "id": 3,
+      "nome": "Mel",
+      "preco": 850
+    },
+    {
+      "id": 4,
+      "nome": "Gãos",
+      "preco": 150
+    }
+  ],
+  "detalhesproduto": [
+    {
+      "id": 1,
+      "nome": "Banana",
+      "preco": 200,
+      "descricao": "Nutritiva e Saudavel",
+      "imgUrl": "https://www.infoescola.com/wp-content/uploads/2010/04/banana_600797891.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Vinho",
+      "preco": 1000,
+      "descricao": "Importado da Suiça e muito Sutil",
+      "imgUrl": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_434/v1/products/0182331-standing-front.png"
+    },
+    {
+      "id": 3,
+      "nome": "Mel",
+      "preco": 850,
+      "descricao": "Delicioso e com beneficio a saúde",
+      "imgUrl": "https://cdn.pixabay.com/photo/2011/03/24/12/07/honey-5866_960_720.jpg"
+      
+    },
+    {
+      "id": 4,
+      "nome": "Grãos",
+      "preco": 150,
+      "descricao": "Excelente efeito no sistema imunológico",
+      "imgUrl": "https://armazemsaovito.fbitsstatic.net/img/p/arroz-12-graos-tradicao-500g-161410/359077.jpg?w=344&h=344&v=no-change&qs=ignore"
+    }
+  ]
+}
